@@ -8,7 +8,7 @@ This is python code for my kaggle competitions. Each directory corresponds to a 
 
 ### What is this repository for? ###
 
-* Kaggle competions
+* Kaggle competitions
 * Version v0
  
  
